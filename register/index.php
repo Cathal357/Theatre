@@ -1,4 +1,5 @@
-<?php 
+<!-- Include navigation -->
+<?php
     include '../components/header.php';
     include '../components/navigation.php';
 ?>

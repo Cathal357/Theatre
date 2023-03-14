@@ -1,12 +1,18 @@
 <?php 
-    //display PHP errors to make debugging easier
-// Comment this out when you are finished with the website.
+    // Display PHP errors to make debugging easier
+    // Comment this out when you are finished with the website.
     ini_set('display_errors', 1);
     ini_set('display_startup_errors', 1);
     error_reporting(E_ALL);
-    define('ROOT_DIR', 'http://localhost/karen/theatreTemplate/');
-   
+
+    // Uncomment the following lines if you get a connection error 
+    // define('ROOT_DIR', 'http://localhost:8040/College/theatre/');
+    // define('AUTH_DIR', 'http://localhost:8040/College/theatre/');
+
+    define('ROOT_DIR', 'http://localhost/College/theatre/');
+    define('AUTH_DIR', 'http://localhost/College/theatre/');
 ?>
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -40,7 +46,7 @@
     <title>Navigation Blog With Dropdown + Search and Logo by okthapian. </title>
 
         <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="stylesheet" href="<?= ROOT_DIR ?>assets/scss/app.css">
+        <link rel="stylesheet" href="<?= ROOT_DIR ?>assets/css/app.css">
 
     </head>
 <body class="bg-gray-200">
