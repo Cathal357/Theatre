@@ -9,6 +9,7 @@
     // define('ROOT_DIR', 'http://localhost:8040/College/theatre/');
     // define('AUTH_DIR', 'http://localhost:8040/College/theatre/');
 
+    // Comment out the following lines if you get a connection error
     define('ROOT_DIR', 'http://localhost/College/theatre/');
     define('AUTH_DIR', 'http://localhost/College/theatre/');
 ?>
