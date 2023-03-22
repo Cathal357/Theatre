@@ -21,6 +21,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <!-- Favicon and Apple touch icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -29,27 +30,29 @@
     <meta name="msapplication-TileColor" content="#0ed3cf">
     <meta name="theme-color" content="#0ed3cf">
 
+    <!-- Open Graph meta tags -->
     <meta property="og:image" content="http://tailwindcomponents.com/storage/6789/conversions/temp97123-ogimage.jpg?v=2023-02-13 00:53:23" />
     <meta property="og:image:width" content="1280" />
     <meta property="og:image:height" content="640" />
     <meta property="og:image:type" content="image/png" />
-
     <meta property="og:url" content="https://tailwindcomponents.com/component/navigation-blog-with-dropdown-search-and-logo/landing" />
     <meta property="og:title" content="Navigation Blog With Dropdown + Search and Logo by okthapian" />
     <meta property="og:description" content="This is a navigation bar that can be used on any website, depending on usage, and can be customized with any color" />
 
+    <!-- Twitter meta tags -->
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@TwComponents" />
     <meta name="twitter:title" content="Navigation Blog With Dropdown + Search and Logo by okthapian" />
     <meta name="twitter:description" content="This is a navigation bar that can be used on any website, depending on usage, and can be customized with any color" />
     <meta name="twitter:image" content="http://tailwindcomponents.com/storage/6789/conversions/temp97123-ogimage.jpg?v=2023-02-13 00:53:23" />
 
-    <title>Navigation Blog With Dropdown + Search and Logo by okthapian. </title>
+    <title>Clyde Theatre</title>
 
-        <script src="https://cdn.tailwindcss.com"></script>
-        <link rel="stylesheet" href="<?= ROOT_DIR ?>assets/css/app.css">
+    <!-- Include Tailwind CSS and app.css -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="<?= ROOT_DIR ?>assets/css/app.css">
+</head>
 
-    </head>
 <body class="bg-gray-200">
 
 <script src="//unpkg.com/alpinejs" defer></script>
