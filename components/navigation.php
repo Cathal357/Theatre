@@ -34,7 +34,7 @@
             <?php if ($_SESSION['is_admin'] == 1): ?>
 
               <!-- Display additional links for logged in admin users -->
-              <a href="#" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 hover:bg-blue--500 hover:text-white transition duration-150 ease-in-out cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 "> Pending Reviews </a>
+              <a href="<?= AUTH_DIR ?>admin/pending.php" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 hover:bg-blue--500 hover:text-white transition duration-150 ease-in-out cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 "> Pending Reviews </a>
               <a href="<?= AUTH_DIR ?>admin/user.php" class="ml-4 px-3 py-2 rounded-md text-sm leading-5 font-medium text-gray-800 hover:bg-blue--500 hover:text-white transition duration-150 ease-in-out cursor-pointer focus:outline-none focus:text-white focus:bg-gray-700 "> Users </a>
             <?php elseif ($_SESSION['is_admin'] == 0): ?>
 
