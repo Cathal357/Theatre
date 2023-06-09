@@ -6,5 +6,6 @@
 ?>
 
 <?php
+    include '../components/blogSection.php';
     include '../components/footer.php';
 ?>

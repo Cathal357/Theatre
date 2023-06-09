@@ -21,32 +21,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Favicon and Apple touch icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#0ed3cf">
-    <meta name="msapplication-TileColor" content="#0ed3cf">
-    <meta name="theme-color" content="#0ed3cf">
+    <div class="bg-gray-100 flex items-center">
+        <section class="w-full bg-cover bg-center py-32" style="background-image: url('<?= ROOT_DIR ?>/assets/images/header_bg.jpg');">
+            <div class="text-centre container mx-auto text-white flex-a">
+                
+                <h1 class=" w-fit text-5xl text-gray-100 font-medium rounded-xl bg-gray-800 bg-opacity-50 px-16 py-10 shadow-lg backdrop-blur-md">Welcome to Clyde Theatre</h1>
 
-    <!-- Open Graph meta tags -->
-    <meta property="og:image" content="http://tailwindcomponents.com/storage/6789/conversions/temp97123-ogimage.jpg?v=2023-02-13 00:53:23" />
-    <meta property="og:image:width" content="1280" />
-    <meta property="og:image:height" content="640" />
-    <meta property="og:image:type" content="image/png" />
-    <meta property="og:url" content="https://tailwindcomponents.com/component/navigation-blog-with-dropdown-search-and-logo/landing" />
-    <meta property="og:title" content="Navigation Blog With Dropdown + Search and Logo by okthapian" />
-    <meta property="og:description" content="This is a navigation bar that can be used on any website, depending on usage, and can be customized with any color" />
-
-    <!-- Twitter meta tags -->
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@TwComponents" />
-    <meta name="twitter:title" content="Navigation Blog With Dropdown + Search and Logo by okthapian" />
-    <meta name="twitter:description" content="This is a navigation bar that can be used on any website, depending on usage, and can be customized with any color" />
-    <meta name="twitter:image" content="http://tailwindcomponents.com/storage/6789/conversions/temp97123-ogimage.jpg?v=2023-02-13 00:53:23" />
-
-    <title>Clyde Theatre</title>
+            </div>
+        </section>
+    </div>
 
     <!-- Include Tailwind CSS and app.css -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -56,4 +39,3 @@
 <body class="bg-gray-200">
 
 <script src="//unpkg.com/alpinejs" defer></script>
-

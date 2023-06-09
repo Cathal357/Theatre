@@ -6,7 +6,7 @@
           <div class="sm:w-7/12 pl-0 p-5">
             <div class="space-y-2">
               <div class="space-y-4">
-                <h4 class="text-2xl font-semibold text-gray-800">Blog Title</h4>
+                <h4 class="text-2xl font-semibold text-gray-800">Placeholder Title</h4>
                 <p class="text-gray-600">Laborum saepe laudantium in, voluptates ex placeat quo harum aliquam totam, doloribus eum impedit atque! Temporibus...</p>
               </div>
               <a href="#" class="block w-max text-gray-900">Read more...</a>
@@ -19,7 +19,7 @@
           <div class="sm:w-7/12 pl-0 p-5">
             <div class="space-y-2">
               <div class="space-y-4">
-                <h4 class="text-2xl font-semibold text-gray-800">Blog Title</h4>
+                <h4 class="text-2xl font-semibold text-gray-800">Placeholder Title</h4>
                 <p class="text-gray-600">Laborum saepe laudantium in, voluptates ex placeat quo harum aliquam totam, doloribus eum impedit atque! Temporibus...</p>
               </div>
               <a href="#" class="block w-max text-gray-900">Read more...</a>
@@ -32,7 +32,7 @@
           <div class="sm:w-7/12 pl-0 p-5">
             <div class="space-y-2">
               <div class="space-y-4">
-                <h4 class="text-2xl font-semibold text-gray-800">Blog Title</h4>
+                <h4 class="text-2xl font-semibold text-gray-800">Placeholder Title</h4>
                 <p class="text-gray-600">Laborum saepe laudantium in, voluptates ex placeat quo harum aliquam totam, doloribus eum impedit atque! Temporibus...</p>
               </div>
               <a href="#" class="block w-max text-gray-900">Read more...</a>
@@ -45,7 +45,7 @@
           <div class="sm:w-7/12 pl-0 p-5">
             <div class="space-y-2">
               <div class="space-y-4">
-                <h4 class="text-2xl font-semibold text-gray-800">Blog Title</h4>
+                <h4 class="text-2xl font-semibold text-gray-800">Placeholder Title</h4>
                 <p class="text-gray-600">Laborum saepe laudantium in, voluptates ex placeat quo harum aliquam totam, doloribus eum impedit atque! Temporibus...</p>
               </div>
               <a href="#" class="block w-max text-gray-900">Read more...</a>
