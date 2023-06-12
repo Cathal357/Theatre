@@ -31,7 +31,7 @@ echo $blogID;
   <article class="rounded-xl bg-gray-200 p-3 shadow-lg hover:shadow-xl hover:transform hover:scale-105 duration-300 ">
       
         <div class="relative flex items-end overflow-hidden rounded-xl">
-          <img src="<?= ROOT_DIR ?>assets/images/shows/<?= $imgPath ?>" alt="<?= $showName ?>" />
+          <img src="<?= ROOT_DIR ?>assets/images/<?= $imgPath ?>" alt="<?= $showName ?>" />
         </div>
 
         <div class="mt-1 p-2">
